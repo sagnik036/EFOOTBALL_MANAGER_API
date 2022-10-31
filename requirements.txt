@@ -1,0 +1,11 @@
+django==3.2.6
+django-cors-headers
+djangorestframework
+wheel
+djangorestframework-simplejwt
+pillow
+pyotp
+psycopg2
+django-decouple
+gunicorn==20.0.4
+django-environ
