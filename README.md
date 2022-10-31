@@ -11,6 +11,15 @@ features:
 Launch Date(January 2023)
 **note date may be changed , as we must find a good frontend developer who can intregate our api
 
+Other Details:
+ 1. This api is built with django-rest-framework - https://www.django-rest-framework.org/
+ 2. Currently this api is in primary stage (not frontend ready)
+
+
+Logs(updates from the developer)
+1. 1-11-2022 : M1 part 1 : : (players , tournaments, scoreboards,seasons,champions,registerplayer all the models are added in the api) ,
+               M1 part 2 : : (planning to build some rest api's for the following models)
+ 
 
 
 
