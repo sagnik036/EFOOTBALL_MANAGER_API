@@ -1,5 +1,6 @@
-# E_FOOTBALL_FAMILY_API
-An api for our E-football lovers community
+# EFOOTBALL_MANAGER_API
+An api for managing all the virtual football tournaments 
+**note It is specially desined for E-FOOTBALL (formerly known as PES)
 
 features: 
   1. It helps to manage the data of our users propery
@@ -9,3 +10,7 @@ features:
 
 Launch Date(January 2023)
 **note date may be changed , as we must find a good frontend developer who can intregate our api
+
+
+
+
